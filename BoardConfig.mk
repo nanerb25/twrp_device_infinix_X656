@@ -122,7 +122,7 @@ TW_OVERRIDE_SYSTEM_PROPS := \
 
 # TWRP Configuration
 TW_THEME := portrait_hdpi
-TW_EXTRA_LANGUAGES := true
+TW_EXTRA_LANGUAGES := false
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 255
@@ -133,7 +133,7 @@ TW_EXCLUDE_LPDUMP := true
 TW_EXCLUDE_BASH := true
 TW_EXCLUDE_NANO := true
 RECOVERY_SDCARD_ON_DATA := true
-TW_INCLUDE_NTFS_3G := true
+TW_EXCLUDE_NTFS_3G := true
 TW_Y_OFFSET := 60
 TW_H_OFFSET := -60
 
