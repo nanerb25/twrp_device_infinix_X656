@@ -7,6 +7,8 @@
 
 ### Issues
 - Decryption
+- Flashlight
+- Vibration
 
 ### Credits
 - @nanerb25 which is me who ported this device tree to this device :)
