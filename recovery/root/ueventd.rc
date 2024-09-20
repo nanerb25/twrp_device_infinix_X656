@@ -7,7 +7,7 @@ subsystem graphics
 
 subsystem drm
     devname uevent_devpath
-    dirname /dev/dri
+    dirname /dev/driries /etc/firmware/ /odm/firmware/ /vendor/firmware/ /firmware/image/
 
 subsystem input
     devname uevent_devpath

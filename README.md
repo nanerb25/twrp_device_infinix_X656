@@ -1,18 +1,12 @@
-## TWRP for Infinix Note 7 X690B
+## TWRP for Infinix Note 7 Lite X656
 
 ### Working
-- Decryption
 - fastbootd
 - MTP
 - USB OTG
 
 ### Issues
-- Let me know if you find anything
-
-### Specifications
-- See https://m.gsmarena.com/infinix_note_7-10175.php
+- Decryption
 
 ### Credits
-- @mastersenpai05 for Infinix Zero 8 tree
-- @Hamadaelhag for testing
-- @lopestom for **Blu G90 Pro** TWRP at [here](https://github.com/lopestom/device_TWRP-PBRP_BLU_G0370WW)
+- @nanerb25 which is me who ported this device tree to this device :)

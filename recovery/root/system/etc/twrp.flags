@@ -29,3 +29,7 @@
 # Removable storage
 /external_sd     auto      /dev/block/mmcblk1p1         /dev/block/mmcblk1
 /usb-otg         auto      /dev/block/sda1              /dev/block/sda        flags=storage;removable;wipeingui
+
+
+
+
